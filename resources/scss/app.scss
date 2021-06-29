@@ -1,4 +1,7 @@
 @import 'resources/_variables.scss';
+@import '~noty/src/noty.scss';
+@import '~noty/src/themes/mint.scss';
+
 
 body{
 
@@ -60,6 +63,10 @@ color: $primary;
     color: $pure;
 }
 
+&:focus{
+    outline: none;
+}
+
 }
 
 
@@ -105,6 +112,13 @@ section.login{
     }
 
     }
+
+
+}
+
+.noty_theme__mint{
+    border-radius: 50px!important;
+    padding-left: 8px!important;
 
 
 }
