@@ -1,5 +1,5 @@
 # Realtimepizza
-This is a Full Stack Project built using NodeJS, MongoDB, ExpressJS, EJS Template Engine, HTML, CSS, JS.
+This is a Full Stack Project, in which there is a prototype of pizza ordering website.
 
 ![Screenshot (522)](https://user-images.githubusercontent.com/43945168/125386201-81bc7a80-e3b9-11eb-9a16-0f428c6e9afa.png)
 
